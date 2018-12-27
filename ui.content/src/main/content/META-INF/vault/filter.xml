@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/musiccorp" mode="merge"/>
+    <filter root="/content/musiccorp" mode="merge"/>
+    <filter root="/content/dam/musiccorp" mode="merge"/>
+</workspaceFilter>
